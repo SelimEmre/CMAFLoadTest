@@ -18,4 +18,4 @@ When you are ready, run the following command
 ```
 node index.js
 ```
-If everythings work properly, open `localhost:3000`
+If everythings work properly, open `localhost:3000`, add your `dash` resources and just click `Start load Test!` button
